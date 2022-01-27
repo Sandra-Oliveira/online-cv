@@ -66,51 +66,9 @@ experiences:
       time: 2014 - 2018
       company: Burguesa
       details:
-projects:
-    title: 
-    intro: 
-    assignments:
-      - title: 
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: 
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: 
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title:
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title:
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: 
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: 
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: 
-        link: "#"
-        authors: 
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

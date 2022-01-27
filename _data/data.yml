@@ -67,6 +67,29 @@ experiences:
       company: Burguesa
       details:
 
+publications:
+    title: Certefications
+    intro:
+    papers:
+      - title: Certificado de competências pedagógicas
+        link: "#"
+        authors: IEFP
+        conference: 2015
+
+      - title: HR Business Partner
+        link: "#"
+        authors: CEGOC - Beyond Knowledge
+        conference: 2020
+
+      - title: International coaching certification
+        link: "#"
+        authors: Keep Corporate
+        conference: 2022
+        
+      - title: Mentor 
+        link: "#"
+        authors: talent Bootcamp
+        conference: 2021
 
 
 
